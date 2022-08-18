@@ -1,12 +1,12 @@
 {
-  "ownerNumber": ["6285921165857@s.whatsapp.net"],
-  "ownerName": ["Christian ID"],
-  "botName": "Hitomi MD",
+  "ownerNumber": ["6285806459088@s.whatsapp.net"],
+  "ownerName": ["Firxyz"],
+  "botName": "Dvls",
   "buttonName": "Youtube Official",
-  "buttonLink": "https://youtube.com/c/ChristianID99",
+  "buttonLink": "https://youtube.com/c/",
   "buttonName2": "Instagram",
-  "buttonLink2": "https://instagram.com/chris.tianid",
-  "footer": "© Bot Store 2022 By Christian ID",
+  "buttonLink2": "https://instagram.com/f1rxyz",
+  "footer": "© Bot By Firxyz",
   "randommenu": ["https://i.ibb.co/SJDV3gQ/61d82860538d.jpg","https://i.ibb.co/NNtmgDF/4b3207ff4d37.jpg"],
   "sessionName": "session",
   "pathimg": "./media/hitomi.jpg",
@@ -14,6 +14,6 @@
   "limitCount": 10,
   "gcount": {
 	"prem": 99999,
-	"user": 15
+	"user": 5
   }
 }
